@@ -1,4 +1,4 @@
-package singleton;
+package hello.core.singleton;
 
 import hello.core.AppConfig;
 import org.junit.jupiter.api.Test;

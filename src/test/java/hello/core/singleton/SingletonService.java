@@ -1,4 +1,4 @@
-package singleton;
+package hello.core.singleton;
 
 public class SingletonService {
     //자기자신을 private , static 으로 가지고 있음 -> 클래스 레벨로 올라감
